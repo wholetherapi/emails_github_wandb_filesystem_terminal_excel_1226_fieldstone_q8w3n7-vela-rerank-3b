@@ -1,0 +1,4 @@
+recipe: vela-rerank-3b
+metric: eval/accuracy
+batch_size: 32
+eval_every_steps: 1
